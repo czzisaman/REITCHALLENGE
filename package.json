@@ -1,0 +1,25 @@
+{
+  "name": "pyfolio-master",
+  "version": "1.0.0",
+  "description": "reits challenge",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/czzisaman/REITCHALLENGE.git"
+  },
+  "keywords": [
+    "marshallzzc"
+  ],
+  "author": "marshall chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/czzisaman/REITCHALLENGE/issues"
+  },
+  "homepage": "https://github.com/czzisaman/REITCHALLENGE#readme"
+}
